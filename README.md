@@ -1,12 +1,12 @@
-# _Parcel Shipping_
+# _Job Board_
 
-#### _A website for a fictional shipping company that helps users calculate shipping estimates, Created 2/19/2019_
+#### _A website for a people who are looking to find a job or post a job offer, Created 2/19/2019_
 
 #### By _**Yulia Shidlovskaya and Jimmy Zebroski**_
 
 ## Description
 
-_A program that allows a user to input dimensions and a weight for a parcel and estimates the shipping cost._
+_A program that allows a user to input a job, a description of the job, and a contact, and shows a list of all the jobs posted._
 
 ## Setup/Installation Requirements
 
